@@ -87,7 +87,7 @@ NODE_ENV=development
 
 ## 🌍 Deployment
 
-Deployed on [Render](https://render.com)
+Deployed on [Render](https://instagram-clone-vibemesh.onrender.com/login)
 
 1. Push code to GitHub
 2. Connect repository to Render
@@ -97,7 +97,7 @@ Deployed on [Render](https://render.com)
 ## 👤 Author
 
 **Sadhna Gautam**
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: https://github.com/Sadhnagautam25/Instagram-clone---VibeMesh-
 - Email: sadhnagautam813@gmail.com
 
 ---
