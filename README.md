@@ -70,7 +70,7 @@ Create a `.env` file in the Backend folder:
 ```
 MONGO_URI=your_mongodb_atlas_connection_string
 JWT_SECRET=your_jwt_secret_key
-PORT=5000
+PORT=3000
 NODE_ENV=development
 ```
 
