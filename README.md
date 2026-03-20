@@ -4,7 +4,7 @@ A full-stack Instagram clone application built with modern web technologies, fea
 
 ## 🌐 Live Demo
 
-[View Live Demo](https://your-deployed-url.com)
+[View Live Demo](https://instagram-clone-vibemesh.onrender.com/)
 
 ## 🛠️ Tech Stack
 
